@@ -1,0 +1,23 @@
+{
+  "name": "chai-node-backend",
+  "version": "1.0.0",
+  "description": "A backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhor-eng/chai-node-backend.git"
+  },
+  "keywords": [
+    "javascript",
+    "backedn"
+  ],
+  "author": "Vibhor Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibhor-eng/chai-node-backend/issues"
+  },
+  "homepage": "https://github.com/vibhor-eng/chai-node-backend#readme"
+}
